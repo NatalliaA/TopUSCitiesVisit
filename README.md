@@ -1,7 +1,7 @@
 # TopUSCitiesVisit
 Web page with a photo gallery and a distance calculator
 
-h4>Description</h4>
+<h4>Description</h4>
                             <p>The main purpose of this project was to build a responsive webpage with photos - Top Cities to Visit in the USA. The webpage shows photos from seven large American cities using the same resizable layout for different devices. The website also includes an embedded Google map and a distance calculator to estimate and display the driving route and distance between two cities.</p>   
                             <h4>Developing Tools:</h4>
                             <ul>
