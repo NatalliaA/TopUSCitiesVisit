@@ -15,4 +15,4 @@ Web page with a photo gallery and a distance calculator
                                 <li>The responsive layout of the photo gallery is achieved with the CSS Grid. The layout of the photos remains the same for different screen sizes - one large photo surrounded by five small photos - and only changes in its size.</li>
                                 <li>The embedded Google map demonstrates the use of JavaScript for creating a distance calculator. The user can fill in two locations by manually typing or using the autocomplete feature. The search result will be displayed as a route on the map with the drive details (from, to, driving distance in miles and drive time).</li>
                             </ul>
-<img src="screenschots/citiesscreen1.png" width="350px">
+<img src="screenschots/citiesscreen1.PNG" width="350px">
