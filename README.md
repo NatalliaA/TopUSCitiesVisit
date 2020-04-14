@@ -17,6 +17,6 @@ Web page with a photo gallery and a distance calculator
                             </ul>
 <img src="screenschots/citiesscreen1.PNG" width="350px">
 <img src="screenschots/citiesscreen2.PNG" width="350px">
-<img src="screenschots/citiesscreen3.PNG" width="350px">
-<img src="screenschots/citiesscreen4.PNG" width="350px">
-<img src="screenschots/citiesscreen5.PNG" width="350px">
+<img src="screenschots/citiesscreen3.png" width="350px">
+<img src="screenschots/citiesscreen4.png" width="350px">
+<img src="screenschots/citiesscreen5.png" width="350px">
