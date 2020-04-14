@@ -16,3 +16,7 @@ Web page with a photo gallery and a distance calculator
                                 <li>The embedded Google map demonstrates the use of JavaScript for creating a distance calculator. The user can fill in two locations by manually typing or using the autocomplete feature. The search result will be displayed as a route on the map with the drive details (from, to, driving distance in miles and drive time).</li>
                             </ul>
 <img src="screenschots/citiesscreen1.PNG" width="350px">
+<img src="screenschots/citiesscreen2.PNG" width="350px">
+<img src="screenschots/citiesscreen3.PNG" width="350px">
+<img src="screenschots/citiesscreen4.PNG" width="350px">
+<img src="screenschots/citiesscreen5.PNG" width="350px">
